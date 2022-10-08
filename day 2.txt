@@ -2,4 +2,8 @@ Wordpress Development
 
 -> Create Account www.wordpress.com
 -> Add Website name
--> 
+-> Verify Email
+-> Goto Dashboard
+
+Explanation
+All Side Menu 
